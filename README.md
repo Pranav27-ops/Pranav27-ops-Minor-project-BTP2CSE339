@@ -1,6 +1,6 @@
 # 🎓 Cloud-Based Student Performance Prediction System
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/student-performance-prediction/blob/main/Student_Performance_Prediction_System.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pranav27-ops/student-performance-prediction/blob/main/Student_Performance_Prediction_System.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -132,7 +132,7 @@ Click the badge at the top of this README, or:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/student-performance-prediction.git
+git clone https://github.com/Pranav27-ops/student-performance-prediction.git
 cd student-performance-prediction
 
 # 2. Create a virtual environment
